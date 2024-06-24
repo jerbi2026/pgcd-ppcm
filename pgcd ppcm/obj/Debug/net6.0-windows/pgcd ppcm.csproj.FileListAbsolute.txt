@@ -1,0 +1,18 @@
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\bin\Debug\net6.0-windows\pgcd ppcm.exe
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\bin\Debug\net6.0-windows\pgcd ppcm.deps.json
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\bin\Debug\net6.0-windows\pgcd ppcm.runtimeconfig.json
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\bin\Debug\net6.0-windows\pgcd ppcm.dll
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\bin\Debug\net6.0-windows\pgcd ppcm.pdb
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.csproj.AssemblyReference.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd_ppcm.pgcd_ppcm.resources
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd_ppcm.Properties.Resources.resources
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.csproj.GenerateResource.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.AssemblyInfoInputs.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.AssemblyInfo.cs
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.csproj.CoreCompileInputs.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.dll
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\refint\pgcd ppcm.dll
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.pdb
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\pgcd ppcm.genruntimeconfig.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle\windows form\pgcd ppcm\pgcd ppcm\obj\Debug\net6.0-windows\ref\pgcd ppcm.dll
